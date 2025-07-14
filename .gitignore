@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But keep this file
+!uc-intg-stormaudio-aarch64.tar.gz
+!.gitignore
