@@ -24,7 +24,6 @@ This integration driver allows control of a **StormAudio ISP** device. A media p
 - LOUDNESS_MEDIUM
 - LOUDNESS_FULL
 - TRIGGER_TOGGLE
-- PRESETS
 
 ## Installation
 
